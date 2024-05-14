@@ -1,0 +1,15 @@
+export const COLORS = {
+  blackText: "#1D1617",
+  darkText: "#0A0B09",
+  blue: "#0038FF",
+  grayInputFeild: "#F7F8F8",
+  grayBorderColor: "#E6E6E3",
+  grayFilledPlaceHolder: "#ADA4A5",
+  grayOutlinePlaceHolderText: "#6B6D6C",
+  grayDarkIcon: "#7B6F72",
+  white: "#FFFFFF",
+  black: "#000000",
+  alertRequire: "#FF000F",
+  opacityBlack: "rgba(0, 0, 0, 0.5)",
+  transparent: "transparent",
+}

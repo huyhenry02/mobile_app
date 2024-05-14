@@ -1,0 +1,36 @@
+const Colors = {
+  black: "#000000",
+  white: "#FFFFFF",
+  normalWhite: "#FFFCF2",
+  gray: "#f0edf6",
+  lightGray: "#CECECE",
+  grey: "#9A9A9A",
+  textGray: "#8F8F8F",
+  blue: "#2196f3",
+  opacityBlack: "rgba(0, 0, 0, 0.5)",
+  transparent: "transparent",
+  violet: "#694fad",
+  violet40: "#3e2465",
+  antYellow: "#FDB713",
+  antYellow40: "#E8A029",
+  antYellow00: "rgba(219, 132, 1, 0.12)",
+  antYellow01: "#FFEACC",
+  antBorder: "#D9D9D9",
+  antBG: "#ECECEC",
+  antText: "#3A3A3A",
+  antGray: "#E2E2E2",
+  faceBook: "#4267B2",
+  google: "#D34234",
+  twitter: "#43ABDE",
+  textColor: "#2E2E2E",
+  header: "#3F3F3F",
+  availableColor: "#8CCB82",
+  antBrow: "#B4740A",
+  heart: "#EC4D73",
+  successful: "#2fbb7c",
+  fail: "#d54236",
+}
+
+const Themes = {}
+
+export default { ...Colors, ...Themes }
